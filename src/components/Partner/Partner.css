@@ -1,0 +1,9 @@
+.partner {
+  cursor: pointer;
+}
+
+.partnerID {
+  display: inline-block;
+  width: 60px;
+  line-height: 1.3;
+}
